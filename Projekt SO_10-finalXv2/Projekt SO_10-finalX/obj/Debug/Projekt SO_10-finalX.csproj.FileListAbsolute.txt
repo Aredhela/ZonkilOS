@@ -1,0 +1,49 @@
+D:\Polibuda\C\Projekty\Projekt SO_10-finalX\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+D:\Polibuda\C\Projekty\Projekt SO_10-finalX\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\C\Projekty\Projekt SO_10-finalX\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+D:\Polibuda\C\Projekty\Projekt SO_10-finalX\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\C\Projekty\Projekt SO_10-finalX\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Semestr III\SO\System\Nowy folder (3)\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+C:\Users\Samsung\Desktop\Semestr III\SO\System\Nowy folder (3)\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Semestr III\SO\System\Nowy folder (3)\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Semestr III\SO\System\Nowy folder (3)\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Semestr III\SO\System\Nowy folder (3)\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+D:\Polibuda\III semestr\SOP\Moduł1 - do wyslania\Najjjjj 10X\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
+D:\Polibuda\III semestr\SOP\najnowzy 12.30 dzien oddania\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+D:\Polibuda\III semestr\SOP\najnowzy 12.30 dzien oddania\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\III semestr\SOP\najnowzy 12.30 dzien oddania\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+D:\Polibuda\III semestr\SOP\najnowzy 12.30 dzien oddania\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+D:\Polibuda\III semestr\SOP\najnowzy 12.30 dzien oddania\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Działa\Nowy folder\Projekt SO_10-finalXv2\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+F:\pobierane\sem III\s.op\ksiazka\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Samsung\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.pdb
+C:\Users\Aredhel\Desktop\Radek\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
+D:\ZonkilOS\Projekt SO_10-finalXv2\Projekt SO_10-finalX\bin\Debug\Projekt SO_10-finalX.exe.config
+D:\ZonkilOS\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.exe
+D:\ZonkilOS\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.pdb
+D:\ZonkilOS\Projekt SO_10-finalXv2\Projekt SO_10-finalX\obj\Debug\Projekt SO_10-finalX.csprojResolveAssemblyReference.cache
